@@ -1,0 +1,13 @@
+body{
+    display: grid;
+    justify-content: center;
+    color: white;
+    font-size: smaller;
+}
+#PT{
+    width: 70vw;
+    background-color: rgb(125, 189, 189);
+    height: 60px;
+    border-radius: 10px;
+    font-size: xx-large;
+}
